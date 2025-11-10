@@ -1,0 +1,15 @@
+[project]
+name = "homography"
+version = "0.1.0"
+description = "Simple homography and image stitching using OpenCV + ORB."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "opencv-python",
+    "numpy",
+]
+
+[tool.uv]
+# Additional uv-specific configuration can go here if needed.
+
+
